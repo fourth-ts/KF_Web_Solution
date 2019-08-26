@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Troys.KF.Hub.UI.Test.Specs", "Troys.KF.Hub.UI.Test.Specs\Troys.KF.Hub.UI.Test.Specs.csproj", "{46AF7680-46E9-4953-9422-F387C74B3480}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Troys.KK.Hub.UI.Test.Automation.Framework", "Troys.KK.Hub.UI.Test.Automation.Framework\Troys.KK.Hub.UI.Test.Automation.Framework.csproj", "{34FE9859-7B08-44F4-B3E5-FD6C0E6B71BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Troys.Playground", "Troys.Playground\Troys.Playground.csproj", "{4D25FCF9-3934-4681-9031-78D99C449B23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{46AF7680-46E9-4953-9422-F387C74B3480}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46AF7680-46E9-4953-9422-F387C74B3480}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46AF7680-46E9-4953-9422-F387C74B3480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34FE9859-7B08-44F4-B3E5-FD6C0E6B71BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FE9859-7B08-44F4-B3E5-FD6C0E6B71BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FE9859-7B08-44F4-B3E5-FD6C0E6B71BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FE9859-7B08-44F4-B3E5-FD6C0E6B71BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D25FCF9-3934-4681-9031-78D99C449B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D25FCF9-3934-4681-9031-78D99C449B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D25FCF9-3934-4681-9031-78D99C449B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D25FCF9-3934-4681-9031-78D99C449B23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
